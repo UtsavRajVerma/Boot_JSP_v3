@@ -1,3 +1,6 @@
 # Boot_JSP_v3
-<img src="https://drive.google.com/file/d/1mR-AITCp5C1aqjxw-3WqQyKjKeNYr_Y9/view?usp=sharing">
-<img src="/home/extramarks/Pictures">
+![Home Page](https://user-images.githubusercontent.com/65709115/126352353-443fccfa-fb86-4ecd-a697-4db63bc7ff43.png)
+
+![Success Page](https://user-images.githubusercontent.com/65709115/126352389-b4998781-a89a-4572-8ec7-4afd75149d33.png)
+
+
